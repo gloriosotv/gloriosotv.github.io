@@ -4,7 +4,7 @@ Ir para o Kodi gestor de ficheiros.
 
 Clicar em "Adicionar fonte"
 
-O endereço para a fonte é https://gloriosotv.github.io/gloriosotv/ (Dar o nome de "gloriosotv").
+O endereço para a fonte é https://gloriosotv.github.io (Dar o nome de "gloriosotv").
 
 Ir para "Addons"
 
