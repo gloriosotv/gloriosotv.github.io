@@ -8,7 +8,7 @@ O endereço para a fonte é https://gloriosotv.github.io (Dar o nome de "glorios
 
 Ir para "Addons"
 
-Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "gloriosotv", e instalar gloriosotv.zip
+Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "plugin.video.gloriosotv-1.0.4.zip", e instalar plugin.video.gloriosotv-1.0.4.zip
 -
 Repositório Instalado!!
 
