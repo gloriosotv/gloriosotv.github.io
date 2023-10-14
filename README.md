@@ -1,4 +1,4 @@
-Instruções para a adição no gestor:
+Instruções para a Instalação no Gestor de Arquivo:
 
 Ir para o Kodi gestor de ficheiros.
 
