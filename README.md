@@ -15,7 +15,7 @@ No canto superior esquerdo da tela, clique no ícone de Caixa aberta para abrir 
 
 Na zona central da tela, localize e selecione a opção “Instalar de um ficheiro Zip”.
 
-Quando perguntar pela localização, selecionar "plugin.video.gloriosotv-1.0.4.zip", e instalar plugin.video.gloriosotv-1.0.4.zip
+Quando perguntar pela localização, selecionar "gloriosotv", e instalar plugin.video.gloriosotv-1.0.4.zip
 
 Repositório Instalado!!
 
