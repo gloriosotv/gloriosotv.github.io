@@ -1,1 +1,2 @@
-[![Link](https://gloriosotv.github.io/)
+[Visite o site](https://gloriosotv.github.io/)
+
