@@ -9,4 +9,3 @@
 5. Dê um nome à fonte (por exemplo: `gloriosotv`).
 6. Clique em **OK** e volte à tela inicial.
 7. Clique no ícone de Instalar a partir de um arquivo .zip, depois selecione a fonte que você acabou de adicionar (gloriosotv).
-# gloriosotv.github.io
