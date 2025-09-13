@@ -12,14 +12,14 @@
       background-position: center;
       color: #ffffff;
       margin: 0;
-      padding: 0;
+      padding: 20px; /* espaço do body */
     }
     .container {
       max-width: 700px;
-      margin: 60px auto;
+      margin: 100px auto; /* mais distância do topo e fundo */
       background-color: rgba(30, 30, 30, 0.95);
       border-radius: 12px;
-      padding: 30px;
+      padding: 40px 35px; /* mais espaço interno */
       box-shadow: 0 0 20px rgba(0,0,0,0.5);
     }
     h1 {
@@ -41,7 +41,8 @@
     }
     table {
       width: 100%;
-      border-collapse: collapse;
+      border-collapse: separate;
+      border-spacing: 0 10px; /* espaço entre as linhas */
       margin-top: 30px;
     }
     td {
@@ -49,7 +50,6 @@
       vertical-align: middle;
       background-color: rgba(0, 0, 0, 0.3);
       border-radius: 8px;
-      margin-bottom: 8px;
     }
     td img {
       display: block;
@@ -59,9 +59,6 @@
     td a {
       font-weight: bold;
       font-size: 1.1em;
-    }
-    tr + tr td {
-      margin-top: 10px;
     }
   </style>
 </head>
