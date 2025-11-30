@@ -11,3 +11,7 @@
 7. Clique no ícone de Instalar a partir de um arquivo .zip, depois selecione a fonte que você acabou de adicionar (gloriosotv).
 
 Grupo Telegram: https://t.me/+TIg42MeAOq8yNzgx
+Ajude Nosso Projeto!
+Estamos nos dedicando intensamente ao desenvolvimento do Glorioso TV. Para continuar melhorando e ampliando nosso projeto, contamos com o seu apoio.
+Estamos aceitando doações via <strong>Pix</strong> para ajudar a cobrir os custos e garantir que o projeto atinja todo o seu potencial.
+O add-on está protegido com usuário e senha. Para quem deseja um teste, pedimos uma contribuição simbólica de R$ 3,00 , que será usada exclusivamente para fortalecer o projeto.
